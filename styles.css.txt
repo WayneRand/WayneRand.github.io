@@ -1,15 +1,7 @@
 <!DOCTYPE html>
 body {
-    background-color darkslategrey;
-    color azure;
-    font-size 1.1em;
-}
-h1 {
-    color coral;
-}
-#intro {
-    font-size 1.3em;
-}
-.colorful {
-    color orange;
+  font-family: system-ui;
+  background: #f06d06;
+  color: white;
+  text-align: center;
 }
